@@ -1,7 +1,7 @@
 import torch
 
 class CFG:
-    DATA_PATH = "/path/to/your/data"          
+    DATA_PATH = "./data"          
     IMAGES_PATH = f"{DATA_PATH}/images"
 
     IMAGE_SIZE = 224
